@@ -112,7 +112,7 @@ header {
   left: 0;
   right: 0;
   z-index: 100;
-  height: var(--header-h);              
+  height: var(--header-h);
   background: rgba(8, 12, 16, 0.85);
   backdrop-filter: blur(20px) saturate(1.4);
   -webkit-backdrop-filter: blur(20px) saturate(1.4);
